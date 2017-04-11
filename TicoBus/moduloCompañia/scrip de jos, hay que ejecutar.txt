@@ -1,0 +1,10 @@
+call crearUsuarioBD('100000000001','Empresa1');
+call crearUsuarioBD('100000000002', 'Empresa2');
+call crearUsuarioBD('100000000003', 'Empresa3');
+call crearUsuarioBD('100000000004', 'Empresa4');
+call crearUsuarioBD('100000000005', 'Empresa5');
+call crearUsuarioBD('100000000006', 'Empresa6');
+call crearUsuarioBD('100000000007', 'Empresa7');
+call crearUsuarioBD('100000000008', 'Empresa8');
+call crearUsuarioBD('100000000009', 'Empresa9');
+call crearUsuarioBD('100000000010', 'Empresa10');

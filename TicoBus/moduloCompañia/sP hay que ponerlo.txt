@@ -1,0 +1,6 @@
+CREATE DEFINER=`root`@`localhost` PROCEDURE `verSaldo`(
+	_cedula int(9)
+)
+BEGIN
+	select saldo from usuario where cedula = _cedula;
+END

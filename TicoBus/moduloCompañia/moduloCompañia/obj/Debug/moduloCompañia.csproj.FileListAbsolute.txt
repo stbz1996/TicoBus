@@ -1,0 +1,155 @@
+c:\users\jocelyn\documents\visual studio 2015\Projects\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.exe.config
+c:\users\jocelyn\documents\visual studio 2015\Projects\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.exe
+c:\users\jocelyn\documents\visual studio 2015\Projects\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.pdb
+c:\users\jocelyn\documents\visual studio 2015\Projects\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.csprojResolveAssemblyReference.cache
+c:\users\jocelyn\documents\visual studio 2015\Projects\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.Properties.Resources.resources
+c:\users\jocelyn\documents\visual studio 2015\Projects\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.csproj.GenerateResource.Cache
+c:\users\jocelyn\documents\visual studio 2015\Projects\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.exe
+c:\users\jocelyn\documents\visual studio 2015\Projects\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.pdb
+c:\users\jocelyn\documents\visual studio 2015\Projects\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.CrBus.resources
+c:\users\jocelyn\documents\visual studio 2015\Projects\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.CrearEmpresa.resources
+C:\Users\Jocelyn\Documents\Visual Studio 2015\Projects\moduloCompañia\moduloCompañia\bin\Debug\MySql.Data.dll
+C:\Users\Jocelyn\Documents\Visual Studio 2015\Projects\moduloCompañia\moduloCompañia\bin\Debug\MySql.Data.xml
+C:\Users\Jocelyn\Documents\Visual Studio 2015\Projects\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarRutasyBuses.resources
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.exe.config
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.exe
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.pdb
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.csprojResolveAssemblyReference.cache
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarBus.resources
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarRutasyBuses.resources
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.CrBus.resources
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.CrearEmpresa.resources
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.Properties.Resources.resources
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.csproj.GenerateResource.Cache
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.exe
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.pdb
+C:\Users\roman_000\Documents\moduloCompañia\moduloCompañia\bin\Debug\MySql.Data.xml
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.exe.config
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.exe
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.pdb
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.exe
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.pdb
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\MySql.Data.xml
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.csprojResolveAssemblyReference.cache
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarBus.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarRuta.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarRutasyBuses.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.CrBus.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.CrearEmpresa.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.Properties.Resources.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.csproj.GenerateResource.Cache
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.DatosEmpresa.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.modificarDatosEmpresa.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.modificarBus.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.modificarRuta.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.reportes.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\FlashControlV71.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\bin\Debug\stdole.dll
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmHistorialTarifa.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmRutasFrecuentes.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmCantidadUsuarios.resources
+C:\Users\Jocelyn\Documents\moduloCompañia\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmRutasReplicadas.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.exe.config
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.exe
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.pdb
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.exe
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.pdb
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\FlashControlV71.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\stdole.dll
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\bin\Debug\MySql.Data.xml
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarBus.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarRuta.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarRutasyBuses.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.CrBus.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.CrearEmpresa.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.DatosEmpresa.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmCantidadUsuarios.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmHistorialTarifa.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmRutasFrecuentes.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmRutasReplicadas.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.modificarBus.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.modificarDatosEmpresa.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.modificarRuta.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.Properties.Resources.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.reportes.resources
+C:\Users\Steven\Downloads\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.csproj.GenerateResource.Cache
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.exe.config
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.exe
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.pdb
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.exe
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\moduloCompañia.pdb
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.Data.AdoDotNetInterop.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\FlashControlV71.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\stdole.dll
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\bin\Debug\MySql.Data.xml
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarBus.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarRuta.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.agregarRutasyBuses.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.CrBus.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.CrearEmpresa.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.DatosEmpresa.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmCantidadUsuarios.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmHistorialTarifa.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmRutasFrecuentes.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.frmRutasReplicadas.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.modificarBus.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.modificarDatosEmpresa.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.modificarRuta.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.Properties.Resources.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.reportes.resources
+C:\Users\Steven\Desktop\Proyecto TicoBus\moduloCompañia\moduloCompañia\obj\Debug\moduloCompañia.csproj.GenerateResource.Cache

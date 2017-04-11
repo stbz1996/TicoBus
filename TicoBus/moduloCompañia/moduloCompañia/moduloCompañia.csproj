@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F666DDA9-63EA-4F04-99A5-53AD42F81149}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>moduloCompañia</RootNamespace>
+    <AssemblyName>moduloCompañia</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Data.AdoDotNetInterop, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="MySql.Data, Version=6.9.9.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="agregarBus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="agregarBus.Designer.cs">
+      <DependentUpon>agregarBus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="agregarRuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="agregarRuta.Designer.cs">
+      <DependentUpon>agregarRuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="agregarRutasyBuses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="agregarRutasyBuses.Designer.cs">
+      <DependentUpon>agregarRutasyBuses.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Autobus.cs" />
+    <Compile Include="Conexion.cs" />
+    <Compile Include="Controlador.cs" />
+    <Compile Include="CrBus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrBus.Designer.cs">
+      <DependentUpon>CrBus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrearEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrearEmpresa.Designer.cs">
+      <DependentUpon>CrearEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetReportes.cs">
+      <DependentUpon>DataSetReportes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSetReportes.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSetReportes.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DatosConexion.cs" />
+    <Compile Include="DatosEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DatosEmpresa.Designer.cs">
+      <DependentUpon>DatosEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empresa.cs" />
+    <Compile Include="frmCantidadUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCantidadUsuarios.Designer.cs">
+      <DependentUpon>frmCantidadUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHistorialTarifa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHistorialTarifa.Designer.cs">
+      <DependentUpon>frmHistorialTarifa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRutasFrecuentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRutasFrecuentes.Designer.cs">
+      <DependentUpon>frmRutasFrecuentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRutasReplicadas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRutasReplicadas.Designer.cs">
+      <DependentUpon>frmRutasReplicadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificarBus.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificarBus.Designer.cs">
+      <DependentUpon>modificarBus.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificarDatosEmpresa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificarDatosEmpresa.Designer.cs">
+      <DependentUpon>modificarDatosEmpresa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="modificarRuta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="modificarRuta.Designer.cs">
+      <DependentUpon>modificarRuta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs" />
+    <Compile Include="obj\Debug\TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="reporteCantidadUsuarios.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reporteCantidadUsuarios.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reporteHistoricoTarifas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reporteHistoricoTarifas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reporteRutasFrecuentes.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reporteRutasFrecuentes.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reporteRutasReplicadas.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>reporteRutasReplicadas.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="reportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="reportes.Designer.cs">
+      <DependentUpon>reportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Ruta.cs" />
+    <Compile Include="SPBuses.cs" />
+    <Compile Include="SPEmpresa.cs" />
+    <Compile Include="SPReportes.cs" />
+    <Compile Include="SPRuta.cs" />
+    <EmbeddedResource Include="agregarBus.resx">
+      <DependentUpon>agregarBus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="agregarRuta.resx">
+      <DependentUpon>agregarRuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="agregarRutasyBuses.resx">
+      <DependentUpon>agregarRutasyBuses.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrBus.resx">
+      <DependentUpon>CrBus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrearEmpresa.resx">
+      <DependentUpon>CrearEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DatosEmpresa.resx">
+      <DependentUpon>DatosEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCantidadUsuarios.resx">
+      <DependentUpon>frmCantidadUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHistorialTarifa.resx">
+      <DependentUpon>frmHistorialTarifa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRutasFrecuentes.resx">
+      <DependentUpon>frmRutasFrecuentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRutasReplicadas.resx">
+      <DependentUpon>frmRutasReplicadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificarBus.resx">
+      <DependentUpon>modificarBus.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificarDatosEmpresa.resx">
+      <DependentUpon>modificarDatosEmpresa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="modificarRuta.resx">
+      <DependentUpon>modificarRuta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="obj\Debug\moduloCompañia.agregarBus.resources" />
+    <EmbeddedResource Include="obj\Debug\moduloCompañia.agregarRutasyBuses.resources" />
+    <EmbeddedResource Include="obj\Debug\moduloCompañia.CrBus.resources" />
+    <EmbeddedResource Include="obj\Debug\moduloCompañia.CrearEmpresa.resources" />
+    <EmbeddedResource Include="obj\Debug\moduloCompañia.Properties.Resources.resources" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reporteCantidadUsuarios.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reporteCantidadUsuarios.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteHistoricoTarifas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reporteHistoricoTarifas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteRutasFrecuentes.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reporteRutasFrecuentes.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reporteRutasReplicadas.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>reporteRutasReplicadas.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="reportes.resx">
+      <DependentUpon>reportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="bin\Debug\moduloCompañia.exe.config" />
+    <None Include="bin\Debug\moduloCompañia.vshost.exe.config" />
+    <None Include="bin\Debug\moduloCompañia.vshost.exe.manifest" />
+    <None Include="DataSetReportes.xsc">
+      <DependentUpon>DataSetReportes.xsd</DependentUpon>
+    </None>
+    <None Include="DataSetReportes.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSetReportes.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="DataSetReportes.xss">
+      <DependentUpon>DataSetReportes.xsd</DependentUpon>
+    </None>
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\Debug\moduloCompañia.csproj.GenerateResource.Cache" />
+    <None Include="obj\Debug\moduloCompañia.csprojResolveAssemblyReference.cache" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1-uNEWLjY4tI0p47Vmkf8IpQ.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shuttle1-tile.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inside-bus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\moduloCompañia.exe" />
+    <Content Include="bin\Debug\moduloCompañia.pdb" />
+    <Content Include="bin\Debug\moduloCompañia.vshost.exe" />
+    <Content Include="bin\Debug\MySql.Data.dll" />
+    <Content Include="bin\Debug\MySql.Data.xml" />
+    <Content Include="obj\Debug\moduloCompañia.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\Debug\moduloCompañia.exe" />
+    <Content Include="obj\Debug\moduloCompañia.pdb" />
+    <Content Include="obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <None Include="Resources\artsfon.com-51753.jpg" />
+    <None Include="Resources\03072014_buss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
